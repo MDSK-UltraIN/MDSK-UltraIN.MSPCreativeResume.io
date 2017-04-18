@@ -188,7 +188,7 @@ ul.address li {
 }
 ul.address li ul.address-text li {
     display: inline-block;
-    font-size: 2em;
+    font-size: 3em;
     color: #fff;
     margin-top: 1em;
 	font-weight: 400;
@@ -205,6 +205,29 @@ ul.address li ul.address-text li a:hover{
 }
 ul.address-text b {
     color:#fff;
+
+}
+ul.address li ul.btn li a {
+       padding: 0.6em 2em;
+    font-size: 1.2em;
+    color: #00ABEC;
+    border: 2px solid #00ABEC;
+    text-decoration: none;
+    border-radius: 1.5em;
+    -webkit-border-radius: 1.5em;
+    -moz-border-radius: 1.5em;
+    -o-border-radius: 1.5em;
+    -ms-border-radius: 1.5em;
+}
+
+ul.address li ul.btn ul li{
+	width:70%;
+	float:left;
+    margin-right: 10em;
+	min-height:100px;
+}
+ul.address li ul.btn ul li{
+	display:inline-block;
 }
 /*--social-icons--*/
 ul.social-icons{
@@ -413,6 +436,8 @@ span.border.one:after {
     top: -4px;
     left: 64px;
 }
+
+
 .about-left-grid h3{
 	font-size:2.5em;
 	color:#FFF;
@@ -622,6 +647,7 @@ span.border.one:after {
 
 #work {
     padding: 5em 0;
+		
 }
 .timeline {
   list-style: none;
