@@ -191,10 +191,10 @@ ul.address li ul.address-text li {
     font-size: 3em;
     color: #fff;
     margin-top: 1em;
-	font-weight: 400;
+	font-weight: 600;
 }
 ul.address li ul.address-text li:nth-child(1){
-	width: 20%;
+	width: 40%;
 }
 ul.address li ul.address-text li a {
     color: #fff;
@@ -791,16 +791,16 @@ ul.year li {
     display: block;
 }
 ul.year li:nth-child(2){
-	    margin-top: 119px;
+	    margin-top: 150px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 129px;
+	    margin-top: 149px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 116px;
+	    margin-top: 128px;
 }
 ul.year li:nth-child(5){
-	    margin-top: 112px;
+	    margin-top: 122px;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
